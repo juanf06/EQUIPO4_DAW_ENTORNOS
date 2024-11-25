@@ -1,13 +1,23 @@
 <!DOCTYPE html>
-<html lang= "es">
-<head>
+<html lang="es">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPRINT 2 - ENTORNOS</title>
+    
 </head>
 
 <body>
+    <h1>SPRINT 2 - ENTORNOS</h1>
 
-<p>supuestamente esto es un codigo en que todo el mundo puede ver <p>
+    <h2>Repositorios Git</h2>
+    <p>
+        Aquí puedes encontrar el enlace al video de presentación sobre el control de versiones, creado en la historia anterior:
+    </p>
+    <p>
+        <a href=>Video de Story 1</a>
+    </p>
 </body>
-
-
 </html>
+
